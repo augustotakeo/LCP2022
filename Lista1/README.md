@@ -1,0 +1,1 @@
+Para executar os exercícios 01, 02, 03, 07 e 08 basta entrar na classe ExecutaExercicio e trocar o número da classe instanciada.
